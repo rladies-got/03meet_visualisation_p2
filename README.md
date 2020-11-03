@@ -2,7 +2,7 @@
 
 This repository stores the script, the data, and its description for the meetup on customising data visualisation in R with different tools, which is the second part of a two-meeting seriess devoted to visualisation packages and techniques in R.
 
-To download the zippend folder together with this description you can press the green button "Clone or download" above.
+To download the zipped folder together with this description you can press the green button "Clone or download" above.
 
 ## Speakers
 
